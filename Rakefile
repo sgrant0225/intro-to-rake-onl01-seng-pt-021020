@@ -16,3 +16,6 @@ end
     Student.create_table
   end
 end
+
+task :environment do 
+  
